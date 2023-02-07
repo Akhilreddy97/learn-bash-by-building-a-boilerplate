@@ -325,3 +325,15 @@ history -a
 cd client/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir assests
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm assests/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm -r assests/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
