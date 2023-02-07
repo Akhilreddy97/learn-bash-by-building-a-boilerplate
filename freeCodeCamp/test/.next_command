@@ -547,3 +547,9 @@ history -a
 clear
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo goodbte terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo goodbye terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
